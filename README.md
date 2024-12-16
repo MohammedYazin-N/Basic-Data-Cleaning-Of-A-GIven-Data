@@ -1,1 +1,1 @@
-# Basic-Data-Cleaning-Of-A-GIven-Data
+# Basic-Data-Cleaning-Of-A-Given-Data
