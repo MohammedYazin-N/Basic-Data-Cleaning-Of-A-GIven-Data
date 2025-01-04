@@ -1,5 +1,5 @@
 # Basic-Data-Cleaning-Of-A-Given-Data
-Overview
+# Overview
 
 This Power BI project focuses on the fundamental steps of data cleaning to prepare a given dataset for analysis. It highlights techniques to identify and rectify inconsistencies, remove duplicates, handle missing values, and ensure data accuracy. The cleaned dataset forms the foundation for reliable and insightful analytics.
 
